@@ -1,0 +1,14 @@
+{
+  "name": "texflow",
+  "version": "1.0.0",
+  "description": "TexFlow – Textile Production Management Platform (MERN Stack)",
+  "scripts": {
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "build": "npm run build --prefix frontend"
+  },
+  "keywords": ["mern", "textile-management", "production", "purchase-orders", "final-year-project"],
+  "author": "TexFlow Team",
+  "license": "ISC"
+}
